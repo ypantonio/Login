@@ -1,0 +1,10 @@
+.login-background{
+    width: 100vw;
+    height: 100vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.formulario-login {
+    border-radius: 4rem 4rem 4rem 4rem;
+}

@@ -1,0 +1,12 @@
+.login-background{
+    width: 100vw;
+    height: 100vh;
+    padding-top: 12rem;
+}
+.formulario-login {
+    border-radius: 4rem 4rem 4rem 4rem;
+}
+.banner-login img{
+    width: 36.5rem;
+    align-self: flex-end;
+}
